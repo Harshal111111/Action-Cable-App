@@ -14,7 +14,7 @@ To test the application:
 
 2. Open terminal and navigate to cloned directory.
 
-3. Install dependencies by running `bundle  install` in your terminal.
+3. Install dependencies by running `bundle install` in your terminal.
 
 4. Start server by running `rails s`.
 
