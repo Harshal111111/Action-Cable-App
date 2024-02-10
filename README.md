@@ -1,5 +1,8 @@
 # Readme
 
+Rails Version: 7.1.3
+Ruby Version: 3.2.2
+
 For this Task I have used action cbale to create a basic chat application.
 
 Also I have implemented styling.
@@ -23,3 +26,4 @@ To test the application:
 6. Type in some message in the text field and click submit button.
 
 7. You can see the message will be shown in both the browsers.
+
